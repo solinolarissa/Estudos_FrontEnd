@@ -1,0 +1,11 @@
+@import 'https://fonts.googleapis.com/css2?family=Limelight&display=swap';
+ 
+h1 {
+    color: blueviolet;
+    font-family: 'Limelight', cursive;
+}
+
+strong {
+   
+     color: brown;
+}
